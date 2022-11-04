@@ -1,4 +1,17 @@
-# Olá, me chamo Denny! 
+<h1 align="center">Olá, eu sou Denny. Sou frontend! :bulb:</h1>
+
+<br />
+
+### Principais tecnologias
+
+<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>  
+</code>  
+
+**About me**
+<br />
 Sou economista de formação e me apaixonei pela área de tecnologia e por resolver os problemas que aparecem (sempre!).   
 Como economista, consigo entender sobre a lógica de negócio de uma forma mais holística e completa, pois entendo como os mercados funcionam e como o cenário econômico nacional impacta os negócios. Como desenvolvedor, posso ajudar no levantamento de requisitos com uma visão horizontal, entendendo as necessidades do cliente, bem como suas soluções.
 
@@ -28,9 +41,7 @@ Trabalho com foco na área de frontend, criando interfaces, gerenciando dados e 
 ## Contatos
 
 <div style={{display: "flex", justifyContent: "center", gap: "16px"}}>
-  
-  <a href="https://instagram.com/seu-usuário-instagram-aqui" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  
+  <a href="https://instagram.com/denny_prp/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:denny.ribeiro@outlook.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/denny-ribeiro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
