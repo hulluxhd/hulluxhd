@@ -18,7 +18,7 @@ Como economista, consigo entender sobre a lógica de negócio de uma forma mais 
 Trabalho com foco na área de frontend, criando interfaces, gerenciando dados e otimizando a performance das aplicações. 
 
 - 🔭 Atualmente estou trabalhando como freelancer e aprofundando os conhecimentos nas tecnologias que mais utilizo
-- 🌱 Estou aprendendo sobre testes, padrões de projeto e geranciamento avançado de estados
+- 🌱 Estou aprendendo sobre testes, padrões de projeto e gerenciamento avançado de estados
 - 💬 Me pergunte sobre JS, TS, HTML, CSS, Redux, Saga, Chakra UI, Jest
 - ⚡ Fato engraçado: já criei formigas :sweat_smile:
 
