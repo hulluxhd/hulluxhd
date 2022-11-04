@@ -46,7 +46,7 @@ Trabalho com foco na área de frontend, criando interfaces, gerenciando dados e 
   <a href="https://www.linkedin.com/in/denny-ribeiro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-![Snake animation](https://github.com/hulluxhd/hulluxhd/blob/output/github-contribution-grid-snake.svg)
+<!--![Snake animation](https://github.com/hulluxhd/hulluxhd/blob/output/github-contribution-grid-snake.svg)-->
 
 <div>
   <a href="https://github.com/hulluxhd"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hulluxhd&layout=compact&langs_count=7&theme=dracula"/><img height="180em" src="https://github-readme-stats.vercel.app/api?username=hulluxhd&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
