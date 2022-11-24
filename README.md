@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou Denny. Sou frontend! :bulb:</h1>
+<h1 align="center">Olá, eu sou Denny. :bulb:</h1>
 
 <br />
 
