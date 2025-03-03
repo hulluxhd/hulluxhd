@@ -20,7 +20,6 @@ Trabalho com foco na área de frontend, criando interfaces, gerenciando dados e 
 - 🔭 Atualmente estou trabalhando como freelancer e aprofundando os conhecimentos nas tecnologias que mais utilizo
 - 🌱 Estou aprendendo sobre testes, padrões de projeto e gerenciamento avançado de estados
 - 💬 Me pergunte sobre JS, TS, HTML, CSS, Redux, Saga, Chakra UI, Jest
-- ⚡ Fato engraçado: já criei formigas :sweat_smile:
 
 ## Ferramentas e Tecnologias
 <div style={{display: "flex", justifyContent: "center", gap: "16px"}}>
